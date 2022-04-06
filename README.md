@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-funny-cartoon-coding-HLB0nLA36GCCo6JuB5"></a></p>
-
-  <img align="right" src="https://giphy.com/embed/HLB0nLA36GCCo6JuB5" />
+  <img align="right" src="https://media2.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif?cid=ecf05e47f7a41480383b74787e6f431d3c849671d79c6cbb&rid=giphy.gif&ct=g" />
