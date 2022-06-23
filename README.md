@@ -47,7 +47,4 @@ Here are some ideas to get you started:
 
 
 
-
-### Github Stats:
-
 <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoon333&show_icons=true&locale=en&layout=compact&theme=radical" alt="changhoon's Most used lang" /><img  width="450em" alt="changhoon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Hoon333&show_icons=true&count_private=true&theme=radical" /> 
