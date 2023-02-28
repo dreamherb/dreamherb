@@ -16,17 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center"> 
-  <a href="https://github.com/Hoon333"><img src="https://typing-text-svg.herokuapp.com?font=&color=1E8CBE&center=true&vCenter=true&lines=Chang+Hoon+Jang+;%F0%9F%9A%80+Junior+Back-End+Developer;"></a>
-
-</p>
- <p align="center">
- <a href="https://dream-herb.tistory.com"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=개발자 꿈나물"></a>
-</p>
-
-<br>
-
-
 
 <!--  GIf -->
 
