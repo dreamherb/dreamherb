@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/sequelize-orange?style=for-the-badge&logo=sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/Java-F7FF00?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
 
 
 <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DreamherB&show_icons=true&locale=en&layout=compact&theme=radical" alt="changhoon's Most used lang" /><img  width="450em" alt="changhoon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=DreamherB&show_icons=true&count_private=true&theme=radical" /> 
