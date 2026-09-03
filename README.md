@@ -1,7 +1,7 @@
 
 
 <!--
-**DreamherB/DreamherB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dreamherb/dreamherb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mybatis-FF961E?style=for-the-badge&logo=mybatis&logoColor=white"/>
 
 
-<img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DreamherB&show_icons=true&locale=en&layout=compact&theme=radical" alt="changhoon's Most used lang" /><img  width="450em" alt="changhoon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=DreamherB&show_icons=true&count_private=true&theme=radical" /> 
+<img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamherb&show_icons=true&locale=en&layout=compact&theme=radical" alt="changhoon's Most used lang" /><img  width="450em" alt="changhoon's Github stats"  src="https://github-readme-stats.vercel.app/api?username=dreamherb&show_icons=true&count_private=true&theme=radical" /> 
